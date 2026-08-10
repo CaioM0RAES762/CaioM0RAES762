@@ -1,78 +1,137 @@
-# Caio Moraes
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Caio Moraes — Software Developer" />
+</p>
 
-**Desenvolvedor de software com foco em automação, dados e inteligência artificial aplicada.**
+<p align="center">
+  <a href="https://www.linkedin.com/in/caio-moraes-0975402a1"><img src="https://img.shields.io/badge/LinkedIn-Caio%20Moraes-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:caio37908@gmail.com"><img src="https://img.shields.io/badge/E--mail-caio37908%40gmail.com-30363D?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
+  <img src="https://img.shields.io/badge/Betim-MG-238636?style=flat-square&logo=googlemaps&logoColor=white" alt="Betim, Minas Gerais" />
+</p>
 
-Construo soluções para organizar informações, integrar sistemas e reduzir trabalho manual. Minha experiência vem principalmente de ambientes industriais, onde estabilidade, clareza e resolução de problemas fazem parte do trabalho diário.
+## Sobre mim
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas na PUC Minas** e direciono meus estudos para desenvolvimento backend, integrações, aplicações web e uso prático de IA.
+Sou desenvolvedor de software com experiência em **ambiente industrial**, trabalhando com sistemas que processam grandes volumes de dados e exigem investigação constante de problemas. Gosto de entender o processo antes de escrever código e transformar rotinas manuais em soluções mais simples, rastreáveis e confiáveis.
 
-- Atuação com sistemas industriais e grandes volumes de dados
-- Desenvolvimento e integração de APIs REST
-- Automação de processos e rotinas de dados com Python
-- Aplicações web com TypeScript, React e Next.js
-- Estudos e projetos com RAG, embeddings e bancos vetoriais
+Hoje atuo principalmente com **Python, integrações, bancos de dados e aplicações web**. Também desenvolvo projetos de IA aplicada com RAG, embeddings e busca vetorial, sempre com foco em uso prático.
 
-## Tecnologias
+> Software útil começa com um problema real bem entendido.
 
-**Desenvolvimento e automação**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Experiência</strong><br/><br/>
+      Desenvolvedor na <strong>Metalsider</strong>, com atuação em sistemas industriais, automação, integração de dados e resolução de problemas que afetam a operação.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Formação</strong><br/><br/>
+      Análise e Desenvolvimento de Sistemas na <strong>PUC Minas — Betim</strong>. Atualmente no 4º período, com conclusão prevista para 2027.
+    </td>
+  </tr>
+</table>
 
-![Python](https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=3776AB)
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6)
-![Flask](https://img.shields.io/badge/Flask-20232A?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-20232A?style=flat-square&logo=nextdotjs&logoColor=white)
+## O que eu desenvolvo
 
-**Dados e infraestrutura**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Automação e integração</strong><br/><br/>
+      Rotinas em Python, processamento de arquivos e APIs REST para conectar sistemas e reduzir tarefas manuais.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Dados industriais</strong><br/><br/>
+      Coleta, validação, transformação e envio de grandes volumes de dados com logs e rastreabilidade.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Inteligência artificial aplicada</strong><br/><br/>
+      Sistemas RAG, embeddings, bancos vetoriais, OCR e recuperação de informações em documentos técnicos.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Aplicações web</strong><br/><br/>
+      APIs, interfaces e sistemas completos com Python, TypeScript, React e Next.js.
+    </td>
+  </tr>
+</table>
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-20232A?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=flat-square&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-20232A?style=flat-square&logo=mysql&logoColor=4479A1)
-![Docker](https://img.shields.io/badge/Docker-20232A?style=flat-square&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git&logoColor=F05032)
-![Power BI](https://img.shields.io/badge/Power_BI-20232A?style=flat-square&logo=powerbi&logoColor=F2C811)
+## Stack
 
-## Projetos em destaque
+<p>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+</p>
 
-### [Integração industrial de dados](https://github.com/CaioM0RAES762/sistema_envio_dados_auto_DATA)
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" />
+</p>
 
-Integração em Python para leitura de medições de um sistema supervisório, tratamento de dados e envio controlado para uma API REST. O projeto inclui validação local, logs, controle contra reenvio, tentativas automáticas e testes.
+<p>
+  <img src="https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688" alt="APIs REST" />
+  <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logo=googlegemini&logoColor=8AB4F8" alt="RAG" />
+  <img src="https://img.shields.io/badge/Embeddings-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="Embeddings" />
+  <img src="https://img.shields.io/badge/Vector_DB-0D1117?style=for-the-badge&logo=databricks&logoColor=FF3621" alt="Bancos vetoriais" />
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+</p>
 
-`Python` `APIs REST` `CSV/XLSX` `pytest` `automação`
+## Projetos selecionados
 
-### [RAG System](https://github.com/CaioM0RAES762/RagSystem)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/CaioM0RAES762/sistema_envio_dados_auto_DATA">Integração industrial de dados</a></h3>
+      <p>Pipeline em Python para ler medições de um sistema supervisório, validar arquivos e enviar dados a uma API com logs, controle de reenvio, retentativas e testes.</p>
+      <p><code>Python</code> <code>REST API</code> <code>CSV/XLSX</code> <code>pytest</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/CaioM0RAES762/RagSystem">RAG System</a></h3>
+      <p>Recuperação de conhecimento a partir de manuais industriais, combinando processamento de documentos, OCR, embeddings, busca vetorial e modelos de linguagem.</p>
+      <p><code>Python</code> <code>RAG</code> <code>ChromaDB</code> <code>OCR</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/CaioM0RAES762/vogue-platform">Vogue Platform</a></h3>
+      <p>Plataforma de e-commerce em monorepo, com loja, API e painel administrativo, banco relacional, cache, filas e integração de pagamentos.</p>
+      <p><code>Next.js</code> <code>NestJS</code> <code>PostgreSQL</code> <code>Redis</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/CaioM0RAES762/mecanica_system">Gestão de manutenção</a></h3>
+      <p>Sistema web para ordens de serviço e rotinas de manutenção mecânica, reunindo frontend, API, banco e infraestrutura local em um monorepo.</p>
+      <p><code>Next.js</code> <code>Fastify</code> <code>SQL Server</code> <code>Docker</code></p>
+    </td>
+  </tr>
+</table>
 
-Sistema de recuperação de conhecimento técnico a partir de manuais e documentos industriais. Trabalha com processamento de texto e imagens, embeddings, busca vetorial, OCR e modelos de linguagem.
+<p align="right">
+  <a href="https://github.com/CaioM0RAES762?tab=repositories">Ver todos os repositórios →</a>
+</p>
 
-`Python` `RAG` `ChromaDB` `OCR` `LLMs`
+## GitHub em números
 
-### [Vogue Platform](https://github.com/CaioM0RAES762/vogue-platform)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CaioM0RAES762&show_icons=true&hide_border=true&locale=pt-br&rank_icon=github&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=3FB950" alt="Estatísticas do GitHub de Caio Moraes" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioM0RAES762&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Linguagens mais usadas nos repositórios públicos" />
+</p>
 
-Plataforma de e-commerce organizada como monorepo, com loja, API e painel administrativo. Utiliza uma arquitetura full stack com banco relacional, cache, filas e serviços externos.
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CaioM0RAES762&bg_color=0D1117&color=8B949E&line=58A6FF&point=3FB950&area=true&hide_border=true&custom_title=Atividade%20nos%20%C3%BAltimos%2031%20dias" alt="Gráfico de atividade recente no GitHub" />
+</p>
 
-`Next.js` `NestJS` `TypeScript` `PostgreSQL` `Redis` `Docker`
+## No que estou trabalhando
 
-### [Gestão de manutenção industrial](https://github.com/CaioM0RAES762/mecanica_system)
+- Integrações entre sistemas e automação de rotinas de dados
+- APIs e serviços backend com Python e TypeScript
+- Aplicações com RAG, embeddings e bancos vetoriais
+- Boas práticas de testes, containers e observabilidade
 
-Plataforma web para gestão de ordens de serviço e rotinas de manutenção mecânica. O projeto reúne frontend, API, banco de dados e infraestrutura local em um único monorepo.
-
-`Next.js` `Fastify` `TypeScript` `SQL Server` `Prisma` `Docker`
-
-## Experiência que levo para os projetos
-
-- Investigação e correção de problemas que afetam a operação
-- Integração entre sistemas e tratamento de dados operacionais
-- Modelagem e consultas em bancos de dados relacionais
-- Desenvolvimento de soluções internas com foco em uso real
-- Organização de código, documentação e versionamento com Git
-
-## Em desenvolvimento
-
-Tenho aprofundado meus conhecimentos em machine learning e engenharia de aplicações com IA, especialmente recuperação de contexto, avaliação de respostas, automação orientada a dados e publicação de serviços.
-
-## Contato
-
-- **E-mail:** [caio37908@gmail.com](mailto:caio37908@gmail.com)
-- **LinkedIn:** [linkedin.com/in/caio-moraes-0975402a1](https://www.linkedin.com/in/caio-moraes-0975402a1)
-- **Localização:** Betim, Minas Gerais
-
-Se quiser conversar sobre desenvolvimento, automação ou aplicações de IA, fique à vontade para entrar em contato.
+<p align="center">
+  <sub>Aberto a conversas sobre desenvolvimento, automação e inteligência artificial aplicada.</sub><br/>
+  <a href="mailto:caio37908@gmail.com"><strong>Vamos conversar →</strong></a>
+</p>
