@@ -51,7 +51,7 @@ encontrar causa raiz mais rápido do que abrindo dez PDFs.
 | Projeto | O que é | Links |
 | :--- | :--- | :--- |
 | **SIDERPROD** | Plataforma MES completa: OEE em tempo real, apontamento de paradas, Pareto de perdas, histórico e relatórios consolidados. Versão pública com dados fictícios gerados pela própria aplicação — sem banco, sem back-end externo. | [demo](https://siderprod.vercel.app) · [código](https://github.com/CaioM0RAES762/SIDERPROD) |
-| **PlataformaRes** | Plataforma de reserva e controle de uso, com gestão de agenda, permissões e administração. | [demo](https://plataformares-demo.vercel.app) · [código](https://github.com/CaioM0RAES762/plataformares-demo) |
+| **PlataformaRes** | Reserva e controle de uso de equipamentos de manutenção — plataformas elevatórias, andaimes e afins — com quadro por setor, permissões e área administrativa. | [demo](https://plataformares-demo.vercel.app) · [código](https://github.com/CaioM0RAES762/plataformares-demo) |
 | **Envio automático de dados** | Integração em Python que coleta dados do supervisório e envia para a API de destino, com validação e reenvio. | [código](https://github.com/CaioM0RAES762/sistema_envio_dados_auto_DATA) |
 | **RagSystem** | Estudo prático de RAG em Python: ingestão, embeddings e recuperação de contexto para consulta em linguagem natural. | [código](https://github.com/CaioM0RAES762/RagSystem) |
 
